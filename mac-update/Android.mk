@@ -1,4 +1,4 @@
-ifeq ($(BOARD_USE_SONY_MACUPDATE),true)
+ifeq ($(BOARD_USE_PANTECH_MACUPDATE),true)
 LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 

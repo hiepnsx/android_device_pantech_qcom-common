@@ -35,7 +35,7 @@
 #include <hardware/lights.h>
 #include <cutils/properties.h>
 
-#include "sony_lights.h"
+#include "pantech_lights.h"
 
 static pthread_mutex_t g_lock = PTHREAD_MUTEX_INITIALIZER;
 

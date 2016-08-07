@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.cyanogenmod.sonycameraworkaround;
+package org.cyanogenmod.pantechcameraworkaround;
 
 import android.hardware.Camera;
 import android.os.Bundle;
